@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-import { Container, Wrapper } from '../../styledComponentsCommon/CommonStyled';
+import { Container, WrapperFlex } from '../../styledComponentsCommon/CommonStyled';
 import { HeaderEl, Title, ListOfOptions } from './HeaderStyledComponents/HeaderStyledComponents';
 
 import OptionListLight from './OptionList/OptionListLight';
@@ -13,7 +13,9 @@ import ModeToggleDark from './OptionList/ModeToggleDark';
 
 
 
+
 const Header = () => {
+
 
     const [theme, setTheme] = useState('light')
 
@@ -28,9 +30,9 @@ const Header = () => {
     return (
         <HeaderEl>
             <Container>
-                <Wrapper padding={"0.5rem 0"}>
+                <WrapperFlex  padding={"0.5rem 0"}>
                     <Title>Shoes Store</Title>
-                    <Wrapper>
+                    <WrapperFlex>
                         {
                             theme === "light" ?
                                 <ListOfOptions>
@@ -42,8 +44,8 @@ const Header = () => {
                                     <OptionListDark />
                                 </ListOfOptions>
                         }
-                    </Wrapper>
-                </Wrapper>
+                    </WrapperFlex>
+                </WrapperFlex>
             </Container>
         </HeaderEl>
     )
