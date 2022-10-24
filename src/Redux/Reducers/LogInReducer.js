@@ -95,7 +95,6 @@ export let LoginUsersReducer = (state = initialState, action) => {
             {
                 let stateCopy = { ...state };
                 stateCopy.basket[action.elementIndex].size.splice(action.sizeIndex, 1)
-                console.log(stateCopy)
                 return { ...stateCopy }
             }
 

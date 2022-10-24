@@ -55,7 +55,6 @@ const LogIn = () => {
         }
         if (state.user != '404' || false || "exited") {
             goToUserAccount("/userAccount");
-            console.log("made ")
         }
     }
 

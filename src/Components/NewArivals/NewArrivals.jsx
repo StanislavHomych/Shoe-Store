@@ -38,9 +38,7 @@ const NewArrivalsComponent = () => {
     if (state.loading) {
         return <h1>Завантаження</h1>
     }
-    if (state.error) {
-        console.log(state.error)
-    }
+  
 
     return <Container>
         <WrapperFlex justify="center" padding="1.5rem 0">

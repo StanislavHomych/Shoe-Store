@@ -35,7 +35,6 @@ const UserAccount = () => {
 
 
   useEffect(() => {
-    console.log('rererere')
     if (state.user === "exited") {
       goOutOfPage("/logIn")
     }
