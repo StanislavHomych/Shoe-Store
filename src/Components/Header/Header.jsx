@@ -1,13 +1,12 @@
 import React, { useEffect, useState } from 'react';
 
-import { Container, WrapperFlex } from '../../styledComponentsCommon/CommonStyled';
+import { Container, WrapperFlex,StyledLink } from '../../styledComponentsCommon/CommonStyled';
 import { HeaderEl, Title, ListOfOptions } from './HeaderStyledComponents/HeaderStyledComponents';
 
 import OptionListLight from './OptionList/OptionListLight';
 import OptionListDark from './OptionList/OptionListDark'
 import ModeToggleLight from './OptionList/ModeToggleLight';
 import ModeToggleDark from './OptionList/ModeToggleDark';
-
 
 
 
@@ -31,7 +30,7 @@ const Header = () => {
         <HeaderEl>
             <Container>
                 <WrapperFlex  padding={"0.5rem 0"}>
-                    <Title>Shoes Store</Title>
+                    <StyledLink to="/"><Title>Shoes Store</Title></StyledLink>
                     <WrapperFlex>
                         {
                             theme === "light" ?

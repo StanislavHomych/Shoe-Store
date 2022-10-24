@@ -1,0 +1,428 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "article": 11,
+      "type": "shoes",
+      "color": "black",
+      "for": "men",
+      "brand": "Air Jordan",
+      "model": "1 Low",
+      "fullName": "Air Jordan 1 Low",
+      "price": 4999,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 8,
+      "rating": 0,
+      "newArrivals": true,
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/i/gc/ab/0e1868e6c1b2805a5f0d8baaed673a7c-472x497.webp"
+    },
+    {
+      "id": 2,
+      "article": 12,
+      "type": "shoes",
+      "color": "blue",
+      "for": "men",
+      "brand": "Air Jordan",
+      "model": "1 High Black University Light Blue/White",
+      "fullName": "Air Jordan 1 High Black University Light Blue/White",
+      "price": 16100,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 4,
+      "rating": 0,
+      "newArrivals": true,
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/i/oa/hb/fed010b6555273d106a7cc79c7713d37-472x497.webp"
+    },
+    {
+      "id": 3,
+      "article": 13,
+      "type": "shoes",
+      "color": "black",
+      "for": "men",
+      "brand": "Reebok",
+      "model": "Maison Margiela Club C ",
+      "fullName": "Reebok Maison Margiela Club C ",
+      "price": 14590,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 8,
+      "rating": 0,
+      "newArrivals": true,
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/i/jd/ac/3427e77979c2b92166ac1e3254642dae-472x497.webp"
+    },
+    {
+      "id": 4,
+      "article": 14,
+      "type": "shoes",
+      "color": "grey",
+      "for": "men",
+      "brand": "New Balance",
+      "model": "1500 Beige M1500GWK",
+      "fullName": "New Balance 1500 Beige M1500GWK",
+      "price": 11290,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 8,
+      "rating": 0,
+      "newArrivals": true,
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/i/op/di/99b35d5c668e1845e5f5fb16910dbd5a-472x497.webp"
+    },
+    {
+      "id": 5,
+      "article": 15,
+      "type": "shoes",
+      "color": "grey",
+      "for": "men",
+      "brand": "New Balance",
+      "model": "991 BEIGE M991GL",
+      "fullName": "New Balance 991 BEIGE M991GL",
+      "price": 10890,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 8,
+      "rating": 0,
+      "newArrivals": true,
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/i/jc/fp/a626def44a134b9546c44940cf7a413d-472x497.webp"
+    },
+    {
+      "id": 6,
+      "article": 16,
+      "type": "shoes",
+      "color": "grey",
+      "for": "men",
+      "brand": "Air Jordan",
+      "model": "11 Cool Grey",
+      "fullName": "Air Jordan 11 Cool Grey",
+      "price": 10800,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        },
+        {
+          "id": 5,
+          "sizeNumber": 10,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 8,
+      "rating": 0,
+      "newArrivals": true,
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/i/bc/em/99d069b1cb72e18ecd5dbde080327592-472x497.webp"
+    },
+    {
+      "id": 7,
+      "article": 17,
+      "type": "shoes",
+      "color": "black",
+      "for": "men",
+      "brand": "Air Jordan",
+      "model": "11 Retro Black",
+      "fullName": "Air Jordan 11 Retro Black",
+      "price": 10100,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 8,
+      "rating": 0,
+      "newArrivals": true,
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/i/do/lh/0e9086c7d44490f8dd9cb06ceaf6f254-472x497.webp"
+    },
+    {
+      "id": 8,
+      "article": 18,
+      "type": "shoes",
+      "color": "grey",
+      "for": "men",
+      "brand": "Air Jordan",
+      "model": "6 Low Grey",
+      "fullName": "Air Jordan 6 Low Grey",
+      "price": 10090,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 8,
+      "rating": 0,
+      "newArrivals": true,
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/i/mb/ji/0101fb8221f2a5186e3abccbfe573ed2-472x497.webp"
+    },
+    {
+      "id": 9,
+      "article": 19,
+      "type": "shoes",
+      "color": "yellow",
+      "for": "woman",
+      "brand": "Nike",
+      "model": "Dunk Low Green/White",
+      "fullName": "Nike Dunk Low Green/White",
+      "price": 9390,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 8,
+      "rating": 0,
+      "newArrivals": true,
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/i/gc/ab/0e1868e6c1b2805a5f0d8baaed673a7c-472x497.webp"
+    },
+    {
+      "id": 10,
+      "article": 110,
+      "type": "shoes",
+      "color": "white",
+      "for": "men",
+      "brand": "Air Jordan",
+      "model": "11 Adapt White/Light",
+      "fullName": "Air Jordan 11 Adapt White/Light",
+      "price": 9330,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 8,
+      "rating": 0,
+      "newArrivals": true,
+      "img": "https://yesoriginal.com.ua/image/cache/catalog/i/ik/la/79709ae22c84d477a3f4e6802b25224c-472x497.webp"
+    },
+    {
+      "id": 11,
+      "article": 110,
+      "type": "shoes",
+      "color": "blue",
+      "for": "men",
+      "brand": "Nike",
+      "model": "Dunk Low Retro QS",
+      "fullName": "Nike Dunk Low Retro QS",
+      "price": 8400,
+      "size": [
+        {
+          "id": 1,
+          "sizeNumber": 8,
+          "isChoosen": false
+        },
+        {
+          "id": 2,
+          "sizeNumber": 8.5,
+          "isChoosen": false
+        },
+        {
+          "id": 3,
+          "sizeNumber": 9,
+          "isChoosen": false
+        },
+        {
+          "id": 4,
+          "sizeNumber": 9.5,
+          "isChoosen": false
+        }
+      ],
+      "ammount": 8,
+      "rating": 0,
+      "newArrivals": false,
+      "img": "https://www.thenextsole.com/storage/images/DM0121-400.png"
+    }
+  ],
+  "Users": [
+    {
+      "email": "admin@gmail.com",
+      "name": "Admin",
+      "password": "Admin1111",
+      "onLine": false,
+      "basket": [],
+      "favourites": [],
+      "id": 1
+    }
+  ],
+  "Orders": []
+}

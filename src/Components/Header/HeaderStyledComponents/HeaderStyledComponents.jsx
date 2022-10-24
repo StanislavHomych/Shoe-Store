@@ -1,6 +1,5 @@
 import styled from "styled-components";
-
-
+import { devices } from "./../../../styledComponentsCommon/DevicesSizes"
 
 export const HeaderEl = styled.header`
 box-shadow: var(--shadow);
@@ -10,8 +9,7 @@ box-shadow: var(--shadow);
 
 
 
-export const Title = styled.a.attrs({
-    href: "/"
+export const Title = styled.h1.attrs({
 })`
     color: var(--color-text);
     font-size: var(--fs-sm); 

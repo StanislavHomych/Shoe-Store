@@ -1,10 +1,25 @@
 import styled from "styled-components";
-import { HeadingFirstLvl } from "../../../styledComponentsCommon/CommonStyled";
+import { HeadingFirstLvl, WrapperGrid } from "../../../styledComponentsCommon/CommonStyled";
+import { devices } from "../../../styledComponentsCommon/DevicesSizes";
 
 export const HeadingPrice = styled(HeadingFirstLvl)`
     font-size: var(--fs-sm);
     font-weight: var(--fw-bold);
 
+`;
+
+export const NewArrivalsGrid = styled(WrapperGrid)`
+    @media ${devices.laptop} {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    @media ${devices.tablet} {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media ${devices.tabletS} {
+        grid-template-columns: repeat(1, 1fr);
+    }
 `;
 
 export const SingleItemImage = styled.img.attrs({
@@ -26,7 +41,10 @@ export const LoadMoreBtn = styled.button`
     font-size: var(--fs-md);
     cursor: pointer;
     display: ${props => props.disp || "block"};
+    margin: ${props => props.margin || "0"};
+    background-color: transparent;
 `
+
 
 
 
